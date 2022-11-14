@@ -1,9 +1,9 @@
 import requests
 from twilio.rest import Client
-api_key = "819e709a5deef0464eabb2155c85c4af"
-account_sid = "AC4f4def930902a396f5e665fb6b94980f"
-auth_token = "97ecf1949f64a84e46e7f9e8d55b9836"
-twilio_num = "+19124556430"
+api_key = "your api key"
+account_sid = "ypur account id"
+auth_token = "auth token"
+twilio_num = "+your num"
 parameters = {
     "lat": -24.858379,
     "lon": -54.335899,
